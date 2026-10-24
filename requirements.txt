@@ -1,0 +1,5 @@
+PySide6-Essentials>=6.8,<7
+PySide6-Addons>=6.8,<7
+mutagen>=1.47,<2
+numpy>=1.26,<3
+send2trash>=2.1,<3

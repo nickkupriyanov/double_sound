@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#4D8DFF"/>
+      <stop offset="1" stop-color="#2B55D9"/>
+    </linearGradient>
+    <linearGradient id="sheet" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFFFFF"/>
+      <stop offset="1" stop-color="#DCE8FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="58" fill="url(#bg)"/>
+  <g opacity="0.35" fill="#BBD2FF">
+    <circle cx="118" cy="190" r="34"/>
+    <rect x="144" y="58" width="15" height="134" rx="7"/>
+    <path d="M144 58 q54 10 76 38 v44 q-34 -24 -76 -32z"/>
+  </g>
+  <g fill="url(#sheet)">
+    <ellipse cx="92" cy="188" rx="34" ry="29" transform="rotate(-18 92 188)"/>
+    <rect x="118" y="62" width="16" height="128" rx="8"/>
+    <path d="M118 62 q54 8 76 36 v46 q-32 -26 -76 -34z"/>
+  </g>
+  <circle cx="184" cy="72" r="10" fill="#FFFFFF" opacity="0.9"/>
+  <circle cx="206" cy="96" r="6" fill="#FFFFFF" opacity="0.6"/>
+</svg>
